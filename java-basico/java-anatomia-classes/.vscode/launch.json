@@ -1,0 +1,286 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "SMARTTV.Usuario",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "DesafioControleFluxo.Contador",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaBanco.ContaTerminal",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "transacao",
+            "request": "launch",
+            "mainClass": "Aula010.transacao",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "Desafio",
+            "request": "launch",
+            "mainClass": "Aula010.Desafio",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "Aula009.ProcessoSeletivo",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "FormatadorCepExemplo",
+            "request": "launch",
+            "mainClass": "Aula008.FormatadorCepExemplo",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExcessao",
+            "request": "launch",
+            "mainClass": "Aula008.ExemploExcessao",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "Aula008.AboutMe",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "Aula007.ExemploWhile",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArrey",
+            "request": "launch",
+            "mainClass": "Aula007.ExemploForArrey",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "Aula007.ExemploFor",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "Aula007.ExemploDoWhile",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "Aula007.ExemploBreakContinue",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "Aula006.SistemaMedida",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "Aula006.ResultadoEscolar",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "Aula006.PlanoOperadora",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "Aula006.CaixaEletronico",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "Aula005.MinhaClasse",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe02",
+            "request": "launch",
+            "mainClass": "Aula005.AboutMe02",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "Aula005.AboutMe",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "Comentarios",
+            "request": "launch",
+            "mainClass": "Aula004.Comentarios",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Aula003.Operadores",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "Aula002.TiposVariaveis",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "Aula001.MinhaClasse",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "BoletinEstudantil",
+            "request": "launch",
+            "mainClass": "Aula001.BoletinEstudantil",
+            "projectName": "java-anatomia-classes_13150096"
+        },
+        {
+            "type": "java",
+            "name": "Desafio",
+            "request": "launch",
+            "mainClass": "Aula010.Desafio",
+            "projectName": "java-anatomia-classes_32c3a450"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArrey",
+            "request": "launch",
+            "mainClass": "Aula007.ExemploForArrey",
+            "projectName": "java-anatomia-classes_32c3a450"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "Aula006.ResultadoEscolar",
+            "projectName": "java-anatomia-classes_32c3a450"
+        },
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaBanco.ContaTerminal",
+            "projectName": "java-anatomia-classes_32c3a450"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BoletinEstudantil",
+            "request": "launch",
+            "mainClass": "Aula001.BoletinEstudantil",
+            "projectName": "java-anatomia-classes_32c3a450"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "Aula001.MinhaClasse",
+            "projectName": "java-anatomia-classes_32c3a450"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "Aula002.TiposVariaveis",
+            "projectName": "java-anatomia-classes_32c3a450"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Aula003.Operadores",
+            "projectName": "java-anatomia-classes_32c3a450"
+        },
+        {
+            "type": "java",
+            "name": "Comentarios",
+            "request": "launch",
+            "mainClass": "Aula004.Comentarios",
+            "projectName": "java-anatomia-classes_32c3a450"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "Aula005.AboutMe",
+            "args": [
+                "THIAGO",
+                "PALMA",
+                "24",
+                "1.70"
+            ],
+            "projectName": "java-anatomia-classes_32c3a450"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse(1)",
+            "request": "launch",
+            "mainClass": "Aula005.MinhaClasse",
+            "projectName": "java-anatomia-classes_32c3a450"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "SMARTTV.Usuario",
+            "projectName": "java-anatomia-classes_32c3a450"
+        }
+    ]
+}
